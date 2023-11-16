@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Professional Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            color: #666;
+        }
+
+        .contact {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Tommy Ma</h1>
+    </header>
+
+    <section id="introduction">
+        <h2>Introduction</h2>
+        <p>Welcome to my professional webpage. I specialize in assisting individuals in mainland China with the registration of ChatGPT accounts.</p>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <p>Master's in Economics</p>
+    </section>
+
+    <section id="contact" class="contact">
+        <h2>Contact Information</h2>
+        <p>WeChat: 18034014097</p>
+    </section>
+
+</body>
+
+</html>
